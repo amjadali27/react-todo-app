@@ -36,6 +36,7 @@ const onDelete = (todo)=>{
   return (
     <>
       <Header title ="My Todos List" searchBar={false}/> 
+      <p>This is my Todos List Application developed in React JS</p>
       <Todos todos = {todos} onDelete={onDelete}/>
       <Footer />
     </> 
