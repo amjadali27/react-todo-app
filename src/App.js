@@ -39,6 +39,7 @@ const onDelete = (todo)=>{
       <p className="text-center">This is my Todos List Application developed in React JS</p>
       <p className="text-center">This is my Todos List Application developed in React JS</p>
       <p className="text-center">This is my Todos List Application developed in React JS</p>
+      <p className="text-center">This is my Todos List Application developed in React JS</p>
       <Todos todos = {todos} onDelete={onDelete}/>
       <Footer />
     </> 
